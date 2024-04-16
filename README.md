@@ -58,3 +58,4 @@ The primary objective of the Monitoring and Detection project was to employ EDR 
 
 <img width="860" alt="7" src="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR/assets/163551482/d12a4789-e8e5-42b0-ad35-13f03b256a0e">
 
+### In Progress............
