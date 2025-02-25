@@ -58,4 +58,17 @@ The primary objective of the Monitoring and Detection project was to employ EDR 
 
 <img width="860" alt="7" src="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR/assets/163551482/d12a4789-e8e5-42b0-ad35-13f03b256a0e">
 
+### I want you to take note of the highlighted part on the screenshot below which shows just how high the privilege we have is (SeDebugPrivilege and SeImpersonatePrivilege), this allows us to carry out further attack on the machine
+<img width="927" alt="7b" src="https://github.com/user-attachments/assets/ecbf038c-dc33-4a5c-84ed-3c182b9c2153" />
+
+### 
+
+
+
+
+
+
+
+
+
 ### In Progress............
