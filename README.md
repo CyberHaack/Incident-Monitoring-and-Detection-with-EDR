@@ -86,7 +86,8 @@ The primary objective of the Monitoring and Detection project was to employ EDR 
 -  Here, I explored the File System section and browsed to the location where my implant is running from by clicking on File System 
 <img width="960" alt="10" src="https://github.com/user-attachments/assets/627e8085-61bf-4ce7-b9ff-ea5f8d1511b5" />
 
-- I inspected the hash of the executable file by running it through VirusTotal. Interestingly, no detections were found. Here’s how VirusTotal works: when you scan a file, hash, or URL, it checks against a database of known malware signatures. If the scanned item does not match any known signatures, VirusTotal may not return any results. However, this does not necessarily mean the file is safe. Therefore, I strongly recommend using a more advanced tool for further analysis. 
+- I inspected the hash of the executable file by running it through VirusTotal. Interestingly, no detections were found.
+- You may be wondering why, so here's how VirusTotal works: when you scan a file, hash, or URL, it checks against a database of known malware signatures. If the scanned item does not match any known signatures, VirusTotal may not return any results. However, this does not necessarily mean the file is safe. Therefore, I strongly recommend using a more advanced tool for further analysis. 
 
 <img width="799" alt="{0F6E8BCB-0D5D-44C2-ACB3-74203EC1B183}" src="https://github.com/user-attachments/assets/6d178f9b-1d73-4d7a-9c66-9135705589ba" />
 
